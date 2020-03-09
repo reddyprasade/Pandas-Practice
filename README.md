@@ -35,8 +35,8 @@ Here are just a few of the things that pandas does well:
   - [**Time series**][timeseries]-specific functionality: date range
     generation and frequency conversion, moving window statistics,
     date shifting and lagging.
-    
-    ```sh
+***  
+```sh
 # conda
 conda install pandas
 ```
@@ -45,8 +45,10 @@ conda install pandas
 # or PyPI
 pip install pandas
 ```
-
+***
 ## Dependencies
 - [NumPy](https://www.numpy.org)
 - [python-dateutil](https://labix.org/python-dateutil)
 - [pytz](https://pythonhosted.org/pytz)
+
+
